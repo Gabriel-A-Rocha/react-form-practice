@@ -13,7 +13,7 @@ Practice to understand React core principles, such as:
 
 ## Form layout outcome
 
-![React](../images/Simple-React-Form.png)
+![React](./src/images/Simple-React-Form.png)
 
 Records can be dinamically added/deketed to the table by the user.
 
